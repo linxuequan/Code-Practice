@@ -2,7 +2,7 @@ package 蓝桥杯;
 import java.util.Arrays;
 public class test {
     public static void main(String[] args) {
-//      int a[][] = {{1,2},{3,4},{5,6}};
+//  //    int a[][] = {{1,2},{3,4},{5,6}};
 //        System.out.println(Arrays.deepToString(a));
 //        String c = "jfxfxcghjh";
 //        char v[] = c.toCharArray();
